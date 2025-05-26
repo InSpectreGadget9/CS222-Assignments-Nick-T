@@ -1,3 +1,0 @@
-001026406,Smith,Jerry,Chemistry,3.2
-001027529,Jones,Bob,Mathematics,2.8
-001926723,Pollard,Becky,Acting,3.4
