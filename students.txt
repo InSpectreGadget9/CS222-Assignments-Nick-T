@@ -1,0 +1,5 @@
+001026406,Smith,Jerry,Chemistry,3.2
+001027529,Jones,Bob,Mathematics,2.8
+001926723,Pollard,Becky,Acting,3.4
+001734532,Smith,James,Business,4.0
+009367564,Brown,Autumn,Chemistry,3.8
